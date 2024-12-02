@@ -1,4 +1,24 @@
-
+(t)mon dec 02 24
+(u)LeahTheTech
+(+)Packet sniffers now come with a helpful frequency reference sheet.
+(t)sun dec 01 24
+(u)FlameArrow57
+(p)21477
+(e)🆕🎨📦|C-Feature, C-Sprites, A-Game-Objects
+(+)Added a toggleable hood to a certain piece of clothing on Ice Moon/Senex
+(+)Hooded suits can no longer have the hood toggled if wearing a helmet
+(u)JORJ949
+(p)21433
+(e)⚖🤖|C-Balance, A-Silicons
+(+)AI Upload Foyer cameras can now only be viewed by AIs
+(t)sat nov 30 24
+(u)LeahTheTech
+(+)Pointing at someone with a GUN will now use a unique point icon to indicate that it's a GUN!!
+(t)fri nov 29 24
+(u)glowbold
+(p)21491
+(e)🆕🎨🌠|C-Feature, C-Sprites, A-Events
+(+)Beware the curse of a wizarding white hole.
 (t)thu nov 28 24
 (u)Glamurio (Ryou)
 (p)21336
