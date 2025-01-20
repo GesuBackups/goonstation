@@ -1,4 +1,25 @@
 
+(t)mon jan 20 25
+(u)patricia
+(p)21956
+(e)💡|A-Station-Systems
+(+)Control units now output signals and execute programs at a more consistent rate
+(u)JORJ949
+(p)21582
+(e)🆕📦|C-Feature, A-Game-Objects
+(*)Nuclear Bombs can now have records loaded into them that play upon arming.
+(u)TealSeer
+(p)22024
+(e)🪲💡|C-Bug, A-Station-Systems
+(*)Repeatedly running DWAINE scripts will no longer crash the entire mainframe forever
+(u)glowbold
+(p)21962
+(e)🆕🎨📦|C-Feature, C-Sprites, A-Game-Objects
+(*)Disposal chutes can break from explosions and gunfire, and be repaired with a screwdriver and crowbar.
+(u)patricia
+(p)22031
+(e)💡|A-Station-Systems
+(+)Vent scrubbers are no longer set to scrub any gasses when built
 (t)sun jan 19 25
 (u)cringe
 (p)20620
